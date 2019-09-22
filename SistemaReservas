@@ -1,0 +1,28 @@
+Sistema de reservas em um restaurante
+Requisitos:
+Aspectos:
+• Visual:
+Tela simples com janelas e botões grandes que preze pela boa experiência
+do usuário e seja intuitivo quanto a usabilidade com cores neutras em uma
+grade entre vermelho,preto e branco. Interface objetiva sem muitas
+animações.
+• Funcional:
+Sistema web conectado a um servidor que utilize de um banco de dados
+para o controle das reservas, que trate das solicitações e encaminhe as
+mensagens de confirmação ou indisponibilidade de mesas para
+determinada situação de data, horário e quantidade de pessoas.
+• Estrutural:
+Antes de tudo o restaurante deve cadastrar, mapa de mesas, horários e dias
+de funcionamento. Em seguida Usuários poderão utilizar o sistema, tanto
+para consultar uma reserva, quanto para realizar.
+Para reservar o cliente insere os dados que são data, horário e quantidade
+de pessoas. O sistema verifica as disponibilidades para aqueles parâmetros
+e apresenta uma nova janela com uma planta baixa do salão do restaurante
+onde estarão distribuídas as mesas, sendo que as mesas disponíveis
+aparecerão em verde,as indisponíveis em vermelho e a selecionada em
+amarelo. O usuário poderá selecionar qualquer uma das mesas em verde e
+assim confirma sua reserva. No fim uma janela é apresentada com o
+resumo de dia, horário e quantidade de pessoas e um código de
+confirmação com o qual o usuário pode comprovar sua reserva.
+Com esse código de verificação o cliente pode também consultar a sua
+reserva.
