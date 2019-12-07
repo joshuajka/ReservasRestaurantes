@@ -63,5 +63,5 @@ reserva.</h6>
 
 <h6>Acompanhamento</h6>
 <img src="https://github.com/joshuajka/ReservasRestaurantes/blob/master/Telas%20App-7.jpg">
-<h2> Nova tela de Atualização </h2> 
+<h2> Nova tela de atualização </h2> 
 
