@@ -63,7 +63,7 @@ reserva.</h6>
 
 <h6>Acompanhamento</h6>
 <img src="https://github.com/joshuajka/ReservasRestaurantes/blob/master/Telas%20App-7.jpg">
-<h6> Orçamento </h6> 
+<h6> Orçamento Parcial </h6> 
 <p> Reservas de Restaurantes
 
 Total de Telas: 7 telas
@@ -89,5 +89,30 @@ Valor do investimento:
 Justificativa dos pontos de função: Para esse cálculo foi levado em conta o grau de complexidade do desenvolvimento das telas, onde todas requerem algum tipo de integração levando a um alto grau de complexidade em que todos os cálculos estão demonstrados acima. 
 </p>
 <h2> Nova tela de atualização </h2> 
-<img src="https://github.com/joshuajka/ReservasRestaurantes/blob/master/Tela_8.jpg">
+<img src="https://github.com/joshuajka/ReservasRestaurantes/blob/master/Tela_8.jpg"> 
+<h6> Orçamento Final </h6> 
+<p>  Reservas de Restaurantes
+
+Total de Telas: 8 telas
+
+Grau de complexidade: Alto (15 pontos de função).
+
+Preço do ponto de função: R$ 45,00.
+
+Pontos de função das Telas: 8 telas → 15 pts x 8 telas → 120 pontos de função.
+
+Custos de manutenção mensal: 
+
+Servidor AWS:  R$ 150,00 (valor sujeito a alteração com a cotação do dólar)
+Google Play : R$ 22,90 
+Serviço : 30% do valor total 
+Total: R$ 172,90 * 30% → R$ 224,77
+
+
+Valor do investimento:
+ (120 pontos de função x R$ 45,00) + 30% + (3 meses de suporte) 674,31   → R$ 7694,31
+
+
+Os custos de manutenção se mantém os mesmos, entretanto o custo de produção aumenta em R$ 877,5 reais.
+ </p>
 
